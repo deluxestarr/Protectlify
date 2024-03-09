@@ -11,6 +11,6 @@ Protectlify aşağıdaki firmalar tarafından kullanılmaktadır:
 - [Riover Craft](https://www.riovercraft.wtf/)
 
   
-![Logo](https://raw.githubusercontent.com/deluxestarr/Protectlify/main/logo-no-background.png)
+![Logo](https://raw.githubusercontent.com/deluxestarr/Protectlify/main/png/logo-no-background.png)
 
     
